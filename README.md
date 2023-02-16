@@ -1,2 +1,2 @@
 # savethekiddes.github.io
-My supa cool githb website
+My supa cool github website
